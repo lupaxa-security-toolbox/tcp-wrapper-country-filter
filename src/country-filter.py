@@ -17,7 +17,7 @@ from pathlib import Path
 
 import maxminddb
 
-__version__ = "0.0.0"
+__version__ = "0.1.0"
 
 ALLOW_ACTION = "ALLOW"
 DENY_ACTION = "DENY"
